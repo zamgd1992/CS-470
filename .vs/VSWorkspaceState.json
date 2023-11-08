@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\lafs-api",
+    "\\lafs-api\\server",
+    "\\lafs-web",
+    "\\lafs-web\\src",
+    "\\lafs-web\\src\\environments"
+  ],
+  "SelectedNode": "\\lafs-api\\docker-compose.yaml",
+  "PreviewInSolutionExplorer": false
+}
